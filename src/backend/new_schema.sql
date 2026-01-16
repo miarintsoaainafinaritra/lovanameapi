@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS DishIngredient;
+DROP TABLE IF EXISTS Dish;
+DROP TABLE IF EXISTS Ingredient;
+
+
